@@ -1,6 +1,5 @@
 - 👋 Hi! I’m Thando
-- 👀 I’m interested in UX, UI and front-end development
-- 🌱 I’m currently learning front-end development 
+- 🌱 I’m currently learning front-end development
 
 
 <!---
